@@ -1,0 +1,58 @@
+*{
+    font-size: 20px;
+}
+#description{
+    font-style: italic;
+    /* font-weight: 200px; */
+    font-size: 20px;
+    /* text-shadow: 1px 1px 1px rgb(0 0 0 / 40%); */
+    text-align: center;
+    color: aqua;
+}
+#title{
+    text-align: center;
+    color: aqua;
+    font-size: 23px;
+    margin-top: 15px;
+}
+.survey{
+background-color: black;
+}
+.dummy{
+    color: aqua;
+}
+.form-group,.name,.mail,.age , .feature, .improve ,.submit,.suggestion{
+    color: aqua;
+}
+.container{
+    background-color:green ;
+    padding: 25px;
+    width: 50%;
+    margin: auto;
+}
+#name,#email,#number{
+    margin-top: 10px;
+    padding: 10px;
+    width: 80%;
+    border-radius: 0.25rem;
+    border: 1px solid black;
+}
+#may,#not,#def{
+    line-height: 200%;
+}
+#submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px ;
+    width: 100%;
+    color:white;
+    background-color:  dodgerblue;
+    border: 1px solid black;
+    padding: 15px;
+
+}
+#dropdown{
+    padding:12px ;
+    color: #333333;
+}
